@@ -47,7 +47,7 @@ const Philosophy = [
     title: "Error-Free Detailing", 
     desc: "We ensure error-free detailing through a rigorous multi-level checking process, verifying every grid, member size, connection, and dimension to eliminate discrepancies before fabrication and erection.", 
     pkg: "Kashmir" },
-  { img: "/assets/cost.jpg",
+  { img: "/assets/optimization.jpg",
      title: "Optimized Cost Efficiency", 
      desc: "Our detailing approach focuses on accurate quantity estimation and smart structural coordination to minimize material wastage, reduce rework, and improve overall project cost efficiency.",
       pkg: "Rajasthan" },
