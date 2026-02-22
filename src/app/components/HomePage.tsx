@@ -317,10 +317,10 @@ export function HomePage() {
                 <h5 className="mb-1 text-sm font-bold text-white/50">OFFICE ADDRESS</h5>
                 <p className="text-base">Delhi NCR, India</p>
               </div>
-              <div className="mb-5 text-white">
+              {/* <div className="mb-5 text-white">
                 <h5 className="mb-1 text-sm font-bold text-white/50">PHONE NUMBER</h5>
                 <a href="tel:+918882649633" className="text-white no-underline">+91 8882649633</a>
-              </div>
+              </div> */}
               <div className="mb-5 text-white">
                 <h5 className="mb-1 text-sm font-bold text-white/50">EMAIL</h5>
                 <a href="mailto:Contact@naturesteel.in" className="text-white no-underline">Contact@naturesteel.in</a>
