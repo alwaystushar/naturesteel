@@ -26,7 +26,6 @@ function pickImageFromAssets(title: string): string {
 const PROJECTS = [
   { title: "High School Phase-2 (TX, USA)" },
   { title: "Skysong Building #4" },
-  { title: "PACCAR Distribution Center" },
   { title: "Volvo Cars Arrowhead" },
   { title: "YMCA of SW Indiana" },
   { title: "Abrazo Central Hospital" },
